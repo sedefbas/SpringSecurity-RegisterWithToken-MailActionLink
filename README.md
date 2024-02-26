@@ -1,4 +1,4 @@
-# ⭐ Bu proje basit bir link gönderme işlemi, eğer bu tarz bir projeyi daha detaylı bir porjede entegre edilmiş olarak görmek isterseniz lüften jwtAuthentication adlı projemi inceleyen. Bunu orada kullanmak için öğrenmiştim :)   
+# ⭐ Bu proje basit bir link gönderme işlemi, eğer bu tarz bir projeyi daha detaylı bir projede entegre edilmiş olarak görmek isterseniz lüften jwtAuthentication adlı projemi inceleyen. Bunu orada kullanmak için öğrenmiştim :)   
 
 #
 
